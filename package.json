@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://RaviKumarNerusu.github.io/CICD-First/",
+  "homepage": "https://github.com/dundisaisrinivaspendem/CICD-First",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

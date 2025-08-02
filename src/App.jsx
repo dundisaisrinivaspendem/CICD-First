@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Dundi superstar </h1>
+      <h1>sai disco </h1>
       <h2>Utham</h2>
     </>
   )
